@@ -1,6 +1,6 @@
 How to setup WordPress on freebsd
 
-# FreeBSD 12.2 x64
+#FreeBSD 12.2 x64
 
 How to setup WordPress on freebsd
 
